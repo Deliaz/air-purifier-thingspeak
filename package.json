@@ -1,0 +1,23 @@
+{
+  "name": "air-purifier-thingspeak",
+  "version": "1.0.0",
+  "description": "Send statistic from Xiaomi Air Purifier to ThingSpeak.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deliaz/air-purifier-thingspeak.git"
+  },
+  "author": "Deliaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deliaz/air-purifier-thingspeak/issues"
+  },
+  "homepage": "https://github.com/Deliaz/air-purifier-thingspeak#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "miio": "^0.15.6"
+  }
+}
